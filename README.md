@@ -1,4 +1,4 @@
-## Hi there 👋
+### :round_pushpin: About me
 
 <!--
 **arist0crab/arist0crab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
