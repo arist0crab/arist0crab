@@ -5,7 +5,7 @@
 </div>
 
   
-### :round_pushpin: About me:
+### :round_pushpin: About me :
 
 I am a software engineer with practical experience in different fields of full-cycle development.
 
@@ -22,6 +22,20 @@ During my five-year internship, I have worked in:
 - 🕹️ Game development
 
 - 🚀 DevOps
+
+---
+
+### :zap: My projects :
+
+- [Website](https://kor-pus.ru/) for carpentry workshop
+
+- Online tutor [website](https://gs-physics.ru/)
+
+- Website for signing up for laboratory work
+
+- Rogue-like PyGame Game
+
+- Gaming Telegram Bot
 
 ---
 
