@@ -33,7 +33,7 @@ During my five-year internship, I have worked in:
 
 - Website for signing up for laboratory work
 
-- Rogue-like PyGame Game
+- Rogue-like PyGame [Game](https://github.com/arist0crab/PyGameGame)
 
 - Gaming Telegram Bot
 
