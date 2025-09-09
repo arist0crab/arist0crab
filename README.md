@@ -21,31 +21,32 @@ During my five-year internship, I have worked in:
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" style="height: 40px;"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/373554/django.svg" alt="Django" style="height: 40px;"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="Pycharm" style="height: 40px;"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" style="height: 40px;"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" style="height: 40px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" style="height: 45px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" style="height: 40px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" style="height: 40px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" style="height: 40px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" style="height: 40px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" style="height: 40px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="GitLab" style="height: 40px; filter: "/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" style="height: 40px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="Linux" style="height: 40px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" style="height: 40px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Vscode" style="height: 40px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="Pycharm" style="height: 40px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" style="height: 40px;"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" style="height: 40px;"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="GitHub" style="height: 40px;"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="GitLab" style="height: 40px; filter: "/>&nbsp;
+  <img src="https://www.svgrepo.com/show/42448/linux.svg" alt="Linux" style="height: 40px;"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" style="height: 50px;"/>&nbsp;
 </div>
-<!--
-**arist0crab/arist0crab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :fire: My Stats :
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arist0crab&show_icons=true&theme=codeSTACKr)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arist0crab&theme=codeSTACKr)](https://github.com/arist0crab/github-readme-stats)
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=arist0crab&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- TODO: add leetcode https://github.com/JacobLinCool/LeetCode-Stats-Card -->
+
