@@ -62,7 +62,7 @@ During my five-year internship, I have worked in:
 
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arist0crab&show_icons=true&theme=codeSTACKr)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arist0crab&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arist0crab&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
