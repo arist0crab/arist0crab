@@ -60,11 +60,7 @@ During my five-year internship, I have worked in:
 
 ---
 
-### :fire: My Stats :
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arist0crab&show_icons=true&theme=codeSTACKr&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arist0crab&layout=compact&theme=codeSTACKr&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+<!-- TODO ### :fire: My Stats : -->
 
 <!-- TODO: add leetcode https://github.com/JacobLinCool/LeetCode-Stats-Card -->
 
