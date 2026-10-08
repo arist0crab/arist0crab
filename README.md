@@ -79,7 +79,6 @@ During my five-year internship, I have worked in:
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arist0crab&layout=pie&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=arist0crab&show_icons=true&theme=onedark)](https://git.io/streak-stats) -->
 
 
