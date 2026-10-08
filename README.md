@@ -52,6 +52,10 @@ During my five-year internship, I have worked in:
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" style="height: 40px;"/>&nbsp;
 </div>
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arist0crab&layout=pie&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### :gear: Tools :
@@ -74,10 +78,8 @@ During my five-year internship, I have worked in:
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" style="height: 50px;"/>&nbsp;
 </div>
 
----
+<!-- ### :fire: My Stats : -->
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arist0crab&layout=pie&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=arist0crab&show_icons=true&theme=onedark)](https://git.io/streak-stats) -->
 
